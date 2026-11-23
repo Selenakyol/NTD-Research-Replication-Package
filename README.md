@@ -28,8 +28,6 @@ The paper reviews 20 primary studies to identify the categories of non-technical
 | 6 | Sheet `Root Cause Definitions` | One row per normalized root cause: code, theme, definition, Study IDs and NTD categories. |
 | 7 | `Fig.2.png`–`Fig.4.b.png` | The figures of the paper, all of which can be recomputed from the `Coding` sheet. |
 
-Study 17 defines social debt without reporting its root causes, so it does not appear in the root cause sheets.
-
 ## The data file
 
 ### Primary Studies
