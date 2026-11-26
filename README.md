@@ -1,6 +1,6 @@
 # Replication Package: Non-Technical Debt Categories and Their Shared Root Causes
 
-Replication package for the paper "Non-Technical Debt Categories and Their Shared Root Causes in Software Development Projects".
+Replication package for the paper "Non-Technical Debt Categories and Their Shared Root Causes in Software Development Projects", submitted to the 6th International Conference on Informatics and Software Engineering (IISEC 2027).
 
 The paper reviews 20 primary studies to identify the categories of non-technical debt (NTD) and their root causes, and to assess whether the categories are orthogonal, i.e. whether each root cause belongs to only one category. This package contains the extracted and coded data and the full-resolution figures, so every number in the results can be traced back to the study it came from.
 
